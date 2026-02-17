@@ -1,2 +1,7 @@
-num_nodes,num_edges,density,num_components,largest_component_nodes,largest_component_frac
-13318.0,1070357.0,0.012070165890142892,1.0,13318.0,1.0
+metric,value
+num_nodes,13318.0
+num_edges,1070352.0
+density,0.012070109506310722
+num_components,1.0
+largest_component_nodes,13318.0
+largest_component_frac,1.0
