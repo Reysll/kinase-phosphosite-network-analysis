@@ -1,0 +1,4 @@
+network,num_nodes,num_edges,proteins,sites,edge_types
+generic,13318,1095542,3122,10196,7
+liver,16605,1297246,3195,13410,10
+delta(liver-generic),3287,201704,73,3214,3

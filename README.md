@@ -8,6 +8,11 @@ Place these files in `./data/`:
 - `edges.csv.gz`
 - (optional) `LiverCancer_ProtExp_Phospho_casecntrl.xlsx`
 
+Excel sheet names expected: ProteinExpression and Phosphorylation (headers start at row 2)
+
+
+
+
 
 ## Setup
 ```powershell
